@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.978,C:\Users\solma\OneDrive\Masaüstü\Yakalanma\Project1.dproj=C:\Users\solma\OneDrive\Masaüstü\Yakannma\erensolmaz.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.465,C:\Users\solma\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\solma\OneDrive\Masaüstü\Yakalanma\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.319,C:\Users\solma\OneDrive\Belgeler\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\solma\OneDrive\Masaüstü\Yakalanma\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.260,C:\Users\solma\OneDrive\Masaüstü\Yakalanma\Unit1.pas=C:\Users\solma\OneDrive\Masaüstü\Yakannma\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.260,C:\Users\solma\OneDrive\Masaüstü\Yakalanma\Unit1.dfm=C:\Users\solma\OneDrive\Masaüstü\Yakannma\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.023,=C:\Users\solma\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.465,C:\Users\solma\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\solma\OneDrive\Masaüstü\Yakalanma\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.836,C:\Users\solma\OneDrive\Masaüstü\Yakannma\erensolmaz.dproj=C:\Users\solma\OneDrive\Masaüstü\Yakannma\erensolmaz.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
